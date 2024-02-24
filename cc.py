@@ -1,3 +1,4 @@
+#to run this you need to install "pip install currency converter"
 from currency_converter import CurrencyConverter
 import tkinter as tk
 a = CurrencyConverter()
